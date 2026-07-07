@@ -1,0 +1,40 @@
+STOCK PORTFOLIO REPORT
+========================================
+
+Stock Symbol : AMZN
+Price        : ₹150
+Quantity     : 5
+Investment   : ₹750
+----------------------------------------
+Stock Symbol : GOOGL
+Price        : ₹140
+Quantity     : 4
+Investment   : ₹560
+----------------------------------------
+Stock Symbol : TSLA
+Price        : ₹250
+Quantity     : 3
+Investment   : ₹750
+----------------------------------------
+Stock Symbol : MSFT
+Price        : ₹320
+Quantity     : 4
+Investment   : ₹1280
+----------------------------------------
+Stock Symbol : NVDA
+Price        : ₹450
+Quantity     : 10
+Investment   : ₹4500
+----------------------------------------
+Stock Symbol : META
+Price        : ₹290
+Quantity     : 10
+Investment   : ₹2900
+----------------------------------------
+Stock Symbol : AAPL
+Price        : ₹180
+Quantity     : 10
+Investment   : ₹1800
+----------------------------------------
+
+Total Portfolio Value : ₹19920
