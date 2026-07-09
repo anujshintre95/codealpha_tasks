@@ -4,20 +4,6 @@ Welcome to my **CodeAlpha Python Programming Internship** repository.
 
 This repository contains the projects I completed during my internship at **CodeAlpha**. Along with the required solutions, I have also created improved versions of the projects to enhance my Python programming skills and understand better coding practices.
 
----
-
-# 👨‍💻 About Me
-
-**Anuj Shintre**
-
-🎓 First Year Instrumentation & Control Engineering Student
-
-🏫 Vishwakarma Institute of Technology (VIT), Pune
-
-💻 Python Programming Intern @ CodeAlpha
-
----
-
 # 📂 Projects Included
 
 ## 🎮 1. Hangman Game
